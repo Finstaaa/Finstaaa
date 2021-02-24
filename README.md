@@ -1,4 +1,4 @@
-<h1 align="center">Finstaa
+<h1 align="center">The GitHub of Finstaa
  </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Finstaaa" alt="Finstaaa" /> </p>
 
