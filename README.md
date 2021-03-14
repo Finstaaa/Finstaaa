@@ -2,7 +2,7 @@
  </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Finstaaa" alt="Finstaaa" /> </p>
 
-I am currently learning C## 
+Capping Yids all day, every day
 
 If you need to contact me my discord is: Finstaa#2031
 
